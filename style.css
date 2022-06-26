@@ -10,10 +10,9 @@ body{
 
 .nav-item{
     padding-left: 25px;
-    align-self: left;
+    align-self: left;    
 }
 
-.navbar-brand{    
-    border-radius: 50%;
-    background-size: cover;    
+.logo-icon{    
+    border-radius: 50%;        
 }
