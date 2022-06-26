@@ -16,3 +16,41 @@ body{
 .logo-icon{    
     border-radius: 50%;        
 }
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Poppins', sans-serif;
+}
+a{
+text-decoration: none;
+}
+
+.content{
+position: absolute;
+top: 35%;
+left: 8%;
+}
+.content .title{
+color: #1f1f25;
+font-size: 15px;
+text-transform: uppercase;
+letter-spacing: 4px;
+display: inline-block;
+margin-bottom: 20px;
+background: linear-gradient(120deg, #1c99fe 20.69%, #7644ff 50.19%,#fd4766 79.69%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.content h1{
+color: #1f1f25;
+font-size: 75px;
+font-weight: 900;
+line-height: 90px;
+text-transform: inherit;
+width: 70%;
+}
+.content h1 span{
+color: #fd4766;
+}
