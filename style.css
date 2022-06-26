@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;       
+       
+}
+
+.nav-item{
+    padding-left: 25px;
+    align-self: left;
+}
+
+.navbar-brand{    
+    border-radius: 50%;
+    background-size: cover;    
+}
